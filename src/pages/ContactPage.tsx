@@ -228,7 +228,7 @@ const ContactPage = () => {
                   <div>
                     <h3 className="text-lg font-semibold mb-1">Phone & WhatsApp</h3>
                     <a href="tel:+923240094621" className="text-gray-600 hover:text-primary-600 transition-colors block">
-                      +92 324 009 4621
+                     ....
                     </a>
                   </div>
                 </div>
@@ -240,7 +240,7 @@ const ContactPage = () => {
                   <div>
                     <h3 className="text-lg font-semibold mb-1">Email</h3>
                     <a href="mailto:alis5597153@gmail.com" className="text-gray-600 hover:text-primary-600 transition-colors">
-                      alis5597153@gmail.com
+                     .....
                     </a>
                   </div>
                 </div>
@@ -271,7 +271,7 @@ const ContactPage = () => {
                 <h3 className="text-lg font-semibold mb-4">Connect With Me</h3>
                 <div className="flex space-x-4">
                   <a 
-                    href="https://github.com/alirizwan1231" 
+                    href="#" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="bg-gray-100 hover:bg-gray-200 text-gray-700 p-3 rounded-full transition-colors"
@@ -295,7 +295,7 @@ const ContactPage = () => {
                     </svg>
                   </a>
                   <a 
-                    href="https://facebook.com/Alirizwan3418" 
+                    href="#" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="bg-gray-100 hover:bg-gray-200 text-gray-700 p-3 rounded-full transition-colors"

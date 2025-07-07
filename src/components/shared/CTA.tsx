@@ -14,7 +14,7 @@ const CTA = () => {
             Get in Touch
           </Link>
           <a 
-            href="https://wa.me/923240094621" 
+            href="https://wa.me..." 
             target="_blank" 
             rel="noopener noreferrer"
             className="btn bg-primary-700 hover:bg-primary-800 text-white font-semibold"
